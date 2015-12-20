@@ -1,4 +1,7 @@
 /Project/Ash/Debug/*
 /Project/Ash/Release/*
+/Project/Ash/ARM/*
 /Project/Ash/ipch/*
+/Project/Ash/.vs/*
+/Project/Ash/Ash.sdf
 /Project/Ash/Ash.VC.opendb
