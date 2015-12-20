@@ -1,0 +1,3 @@
+[submodule "Submodules/RxCpp"]
+	path = Submodules/RxCpp
+	url = https://github.com/himeiyuna/RxCpp.git
